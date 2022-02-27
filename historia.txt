@@ -3,3 +3,4 @@ clase 1 practica 1
 git
 platzi curso
 bunda feb 27
+monica 20 años
